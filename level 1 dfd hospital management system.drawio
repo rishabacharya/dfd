@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-10T14:49:40.057Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="9pjtuXcatOgAyTSyP9-B" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-10T14:50:57.919Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="ymklM7c81fTic9G7AkZ6" version="14.8.5" type="github">
   <diagram id="IVBys1ZXQ-CKOB5k00rB" name="Page-1">
     <mxGraphModel dx="1303" dy="727" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -282,13 +282,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p7zJFIB0yHxlRQ5MplDY-94" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="643" y="471" width="80" height="80" as="geometry" />
+          <mxGeometry x="643" y="483" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="p7zJFIB0yHxlRQ5MplDY-95" value="Patient discharge" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="665" y="505" width="40" height="20" as="geometry" />
+          <mxGeometry x="663" y="513" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="p7zJFIB0yHxlRQ5MplDY-98" value="Discharge info" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="620" y="457" width="40" height="20" as="geometry" />
+        <mxCell id="p7zJFIB0yHxlRQ5MplDY-98" value="Discharge confirmation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="623" y="463" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="p7zJFIB0yHxlRQ5MplDY-101" value="Discharge details" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="738" y="560" width="40" height="20" as="geometry" />
